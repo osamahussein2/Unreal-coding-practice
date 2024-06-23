@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\osama\\Downloads\\Unreal coding practice\\Unreal-coding-practice\\UnrealPractice\\Source\\UnrealPractice\\UnrealPractice.Build.cs",
+		"C:\\Users\\osama\\Downloads\\Unreal coding practice\\Unreal-coding-practice\\UnrealPractice\\Source\\UnrealPractice.Target.cs",
+		"C:\\Users\\osama\\Downloads\\Unreal coding practice\\Unreal-coding-practice\\UnrealPractice\\Source\\UnrealPracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

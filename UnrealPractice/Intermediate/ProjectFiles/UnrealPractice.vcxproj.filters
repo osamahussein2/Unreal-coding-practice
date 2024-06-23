@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealPractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealPractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealPracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealPractice">
+      <UniqueIdentifier>{C9771631-FB9E-3323-9547-674ACA157AF4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealPractice\MyCharacter.cpp">
+      <Filter>Source\UnrealPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPractice\MyCharacter.h">
+      <Filter>Source\UnrealPractice</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealPractice\UnrealPractice.Build.cs">
+      <Filter>Source\UnrealPractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealPractice\UnrealPractice.cpp">
+      <Filter>Source\UnrealPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPractice\UnrealPractice.h">
+      <Filter>Source\UnrealPractice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

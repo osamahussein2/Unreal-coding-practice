@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\osama\\downloads\\unreal coding practice\\unreal-coding-practice\\unrealpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealpractice\\uht\\unrealpractice.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\osama\\downloads\\unreal coding practice\\unreal-coding-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\osama\\downloads\\unreal coding practice\\unreal-coding-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealpractice\\definitions.unrealpractice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

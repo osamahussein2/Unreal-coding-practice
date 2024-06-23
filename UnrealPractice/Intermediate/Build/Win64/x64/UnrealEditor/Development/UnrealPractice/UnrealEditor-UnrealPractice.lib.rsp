@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealPractice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealPracticeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\MyCharacter.gen.cpp.obj"
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\UnrealPractice.init.gen.cpp.obj"
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\MyCharacter.cpp.obj"
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\UnrealPractice.cpp.obj"
+"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\Default.rc2.res"
+/OUT:"C:\Users\osama\Downloads\Unreal coding practice\Unreal-coding-practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPractice\UnrealEditor-UnrealPractice.lib"
